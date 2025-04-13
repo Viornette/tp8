@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{F24F303B-8398-442C-B664-77B9649B3700}|tpmodul8_103022300145\\tpmodul8_103022300145.csproj|d:\\praktikum\\kpl\\tpmodul8_103022300145\\tpmodul8_103022300145\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F24F303B-8398-442C-B664-77B9649B3700}|tpmodul8_103022300145\\tpmodul8_103022300145.csproj|solutionrelative:tpmodul8_103022300145\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F303B-8398-442C-B664-77B9649B3700}|tpmodul8_103022300145\\tpmodul8_103022300145.csproj|d:\\praktikum\\kpl\\tpmodul8_103022300145\\tpmodul8_103022300145\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F24F303B-8398-442C-B664-77B9649B3700}|tpmodul8_103022300145\\tpmodul8_103022300145.csproj|solutionrelative:tpmodul8_103022300145\\covidconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F24F303B-8398-442C-B664-77B9649B3700}|tpmodul8_103022300145\\tpmodul8_103022300145.csproj|d:\\praktikum\\kpl\\tpmodul8_103022300145\\tpmodul8_103022300145\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F24F303B-8398-442C-B664-77B9649B3700}|tpmodul8_103022300145\\tpmodul8_103022300145.csproj|solutionrelative:tpmodul8_103022300145\\covid_config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "covid_config.json",
+              "DocumentMoniker": "D:\\PRAKTIKUM\\KPL\\tpmodul8_103022300145\\tpmodul8_103022300145\\covid_config.json",
+              "RelativeDocumentMoniker": "tpmodul8_103022300145\\covid_config.json",
+              "ToolTip": "D:\\PRAKTIKUM\\KPL\\tpmodul8_103022300145\\tpmodul8_103022300145\\covid_config.json",
+              "RelativeToolTip": "tpmodul8_103022300145\\covid_config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-13T18:58:46.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CovidConfig.cs",
+              "DocumentMoniker": "D:\\PRAKTIKUM\\KPL\\tpmodul8_103022300145\\tpmodul8_103022300145\\CovidConfig.cs",
+              "RelativeDocumentMoniker": "tpmodul8_103022300145\\CovidConfig.cs",
+              "ToolTip": "D:\\PRAKTIKUM\\KPL\\tpmodul8_103022300145\\tpmodul8_103022300145\\CovidConfig.cs",
+              "RelativeToolTip": "tpmodul8_103022300145\\CovidConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T18:56:25.668Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "tpmodul8_103022300145\\Program.cs",
               "ToolTip": "D:\\PRAKTIKUM\\KPL\\tpmodul8_103022300145\\tpmodul8_103022300145\\Program.cs",
               "RelativeToolTip": "tpmodul8_103022300145\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-13T18:46:38.582Z",
               "EditorCaption": ""
